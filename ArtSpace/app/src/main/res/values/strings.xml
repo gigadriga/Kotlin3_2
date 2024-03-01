@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="art_work_content_desc">Шедевр</string>
+    <string name="art_work_1_title">Картинка 1</string>
+    <string name="artist_1_name">Великий</string>
+    <string name="art_work_1_year">: 2007</string>
+    <string name="art_work_2_title">Сигнал</string>
+    <string name="artist_2_name">Корга</string>
+    <string name="art_work_2_year">: 2012</string>
+    <string name="art_work_3_title">Свинка</string>
+    <string name="artist_3_name">Свинеус</string>
+    <string name="art_work_3_year">: 2019</string>
+    <string name="art_work_4_title">Хехех</string>
+    <string name="artist_4_name">Кот</string>
+    <string name="art_work_4_year">: 2010</string>
+    <string name="art_work_5_title">Лизь</string>
+    <string name="artist_5_name">Котэ</string>
+    <string name="art_work_5_year">: 2020</string>
+    <string name="art_work_6_title">Окей</string>
+    <string name="artist_6_name">Котофен</string>
+    <string name="art_work_6_year">: 2020</string>
+    <string name="previous">Предыдущий</string>
+    <string name="next">Следующий</string>
+</resources>
